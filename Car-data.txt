@@ -1,0 +1,270 @@
+Brand: Toyota
+Model: Camry 2024
+Features: 
+- Engine: 2.5L 4-cylinder
+- Horsepower: 203 hp
+- Fuel Economy: 28 mpg city / 39 mpg highway
+- Drivetrain: FWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Toyota Safety Sense, Pre-Collision System, Lane Departure Alert
+
+---
+
+Brand: Tesla
+Model: Model 3 2024
+Features:
+- Engine: Electric
+- Horsepower: 283 hp
+- Range: 272 miles per charge
+- Drivetrain: RWD
+- Transmission: Single-speed automatic
+- Seating Capacity: 5
+- Safety Features: Autopilot, Full Self-Driving Capability, Collision Warning
+
+---
+
+Brand: BMW
+Model: 3 Series 2024
+Features:
+- Engine: 2.0L Turbocharged I4
+- Horsepower: 255 hp
+- Fuel Economy: 26 mpg city / 36 mpg highway
+- Drivetrain: AWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Forward Collision Warning, Blind Spot Monitoring, Adaptive Cruise Control
+
+---
+
+Brand: Ford
+Model: Mustang Mach-E 2024
+Features:
+- Engine: Electric
+- Horsepower: 346 hp
+- Range: 270 miles per charge
+- Drivetrain: AWD
+- Transmission: Single-speed automatic
+- Seating Capacity: 5
+- Safety Features: Co-Pilot360, Lane-Keeping System, Automatic Emergency Braking
+
+---
+
+Brand: Audi
+Model: A4 2024
+Features:
+- Engine: 2.0L Turbocharged I4
+- Horsepower: 261 hp
+- Fuel Economy: 24 mpg city / 31 mpg highway
+- Drivetrain: AWD
+- Transmission: 7-speed automatic
+- Seating Capacity: 5
+- Safety Features: Audi Pre Sense, Rear Cross Traffic Alert, Parking System Plus
+
+---
+
+Brand: Honda
+Model: Accord 2024
+Features:
+- Engine: 1.5L Turbocharged I4
+- Horsepower: 192 hp
+- Fuel Economy: 30 mpg city / 38 mpg highway
+- Drivetrain: FWD
+- Transmission: CVT
+- Seating Capacity: 5
+- Safety Features: Honda Sensing, Adaptive Cruise Control, Lane Keeping Assist
+
+---
+
+Brand: Mercedes-Benz
+Model: C-Class 2024
+Features:
+- Engine: 2.0L Turbocharged I4
+- Horsepower: 255 hp
+- Fuel Economy: 24 mpg city / 35 mpg highway
+- Drivetrain: RWD
+- Transmission: 9-speed automatic
+- Seating Capacity: 5
+- Safety Features: Active Brake Assist, Attention Assist, Blind Spot Assist
+
+---
+
+Brand: Chevrolet
+Model: Corvette Stingray 2024
+Features:
+- Engine: 6.2L V8
+- Horsepower: 490 hp
+- Fuel Economy: 16 mpg city / 24 mpg highway
+- Drivetrain: RWD
+- Transmission: 8-speed dual-clutch automatic
+- Seating Capacity: 2
+- Safety Features: Rearview Camera, Rear Park Assist, Performance Data Recorder
+
+---
+
+Brand: Nissan
+Model: Altima 2024
+Features:
+- Engine: 2.5L 4-cylinder
+- Horsepower: 188 hp
+- Fuel Economy: 28 mpg city / 39 mpg highway
+- Drivetrain: AWD
+- Transmission: CVT
+- Seating Capacity: 5
+- Safety Features: ProPILOT Assist, Automatic Emergency Braking, Rear Automatic Braking
+
+---
+
+Brand: Hyundai
+Model: Sonata 2024
+Features:
+- Engine: 2.5L 4-cylinder
+- Horsepower: 191 hp
+- Fuel Economy: 27 mpg city / 37 mpg highway
+- Drivetrain: FWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: SmartSense, Blind Spot Collision Warning, Driver Attention Warning
+
+---
+
+Brand: Kia
+Model: K5 2024
+Features:
+- Engine: 1.6L Turbocharged I4
+- Horsepower: 180 hp
+- Fuel Economy: 27 mpg city / 37 mpg highway
+- Drivetrain: FWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Forward Collision Warning, Lane Keeping Assist, Driver Attention Warning
+
+---
+
+Brand: Subaru
+Model: Outback 2024
+Features:
+- Engine: 2.5L 4-cylinder
+- Horsepower: 182 hp
+- Fuel Economy: 26 mpg city / 33 mpg highway
+- Drivetrain: AWD
+- Transmission: CVT
+- Seating Capacity: 5
+- Safety Features: EyeSight Driver Assist, Adaptive Cruise Control, Lane Departure Warning
+
+---
+
+Brand: Volkswagen
+Model: Passat 2024
+Features:
+- Engine: 2.0L Turbocharged I4
+- Horsepower: 174 hp
+- Fuel Economy: 24 mpg city / 36 mpg highway
+- Drivetrain: FWD
+- Transmission: 6-speed automatic
+- Seating Capacity: 5
+- Safety Features: Front Assist, Blind Spot Monitor, Rear Traffic Alert
+
+---
+
+Brand: Volvo
+Model: XC90 2024
+Features:
+- Engine: 2.0L Turbocharged I4
+- Horsepower: 250 hp
+- Fuel Economy: 21 mpg city / 30 mpg highway
+- Drivetrain: AWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 7
+- Safety Features: Pilot Assist, Cross Traffic Alert, Collision Mitigation Support
+
+---
+
+Brand: Porsche
+Model: Cayenne 2024
+Features:
+- Engine: 3.0L Turbocharged V6
+- Horsepower: 335 hp
+- Fuel Economy: 19 mpg city / 23 mpg highway
+- Drivetrain: AWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Porsche Active Safe, Adaptive Cruise Control, Lane Keep Assist
+
+---
+
+Brand: Jeep
+Model: Grand Cherokee 2024
+Features:
+- Engine: 3.6L V6
+- Horsepower: 293 hp
+- Fuel Economy: 19 mpg city / 26 mpg highway
+- Drivetrain: 4WD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Adaptive Cruise Control, Blind Spot Monitoring, Rear Cross Path Detection
+
+---
+
+Brand: Lexus
+Model: ES 350 2024
+Features:
+- Engine: 3.5L V6
+- Horsepower: 302 hp
+- Fuel Economy: 22 mpg city / 32 mpg highway
+- Drivetrain: FWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Lexus Safety System+, Pre-Collision System, Lane Tracing Assist
+
+---
+
+Brand: Dodge
+Model: Charger 2024
+Features:
+- Engine: 5.7L HEMI V8
+- Horsepower: 370 hp
+- Fuel Economy: 16 mpg city / 25 mpg highway
+- Drivetrain: RWD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Blind Spot Monitoring, Adaptive Cruise Control, Lane Departure Warning
+
+---
+
+Brand: Cadillac
+Model: Escalade 2024
+Features:
+- Engine: 6.2L V8
+- Horsepower: 420 hp
+- Fuel Economy: 14 mpg city / 19 mpg highway
+- Drivetrain: 4WD
+- Transmission: 10-speed automatic
+- Seating Capacity: 7
+- Safety Features: Automatic Emergency Braking, Surround Vision, Rear Camera Mirror
+
+---
+
+Brand: Land Rover
+Model: Range Rover 2024
+Features:
+- Engine: 3.0L Turbocharged I6
+- Horsepower: 395 hp
+- Fuel Economy: 18 mpg city / 24 mpg highway
+- Drivetrain: 4WD
+- Transmission: 8-speed automatic
+- Seating Capacity: 5
+- Safety Features: Terrain Response, Adaptive Dynamics, Blind Spot Assist
+
+---
+
+Brand: Mazda
+Model: CX-5 2024
+Features:
+- Engine: 2.5L Turbocharged I4
+- Horsepower: 227 hp
+- Fuel Economy: 22 mpg city / 27 mpg highway
+- Drivetrain: AWD
+- Transmission: 6-speed automatic
+- Seating Capacity: 5
+- Safety Features: Mazda Radar Cruise Control, Smart Brake Support, Lane Departure Warning
