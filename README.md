@@ -1,4 +1,4 @@
-# Car-Recomdator
+# Car-Recommendator
 
 **Car Recommender Model** is a chatbot specifically designed to assist users with car-related inquiries. By integrating data about various car models, features, maintenance tips, and comparisons into a large language model (LLM), this chatbot provides insightful information and personalized recommendations for car buyers.
 
